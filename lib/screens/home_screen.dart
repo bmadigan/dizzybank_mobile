@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
         elevation: 0.0,
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.account_circle),
+            icon: Icon(Icons.settings),
             iconSize: 30.0,
             color: Colors.white,
             onPressed: () {},
